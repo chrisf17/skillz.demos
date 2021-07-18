@@ -1,0 +1,15 @@
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.defaultimplementation/bin/Debug/net5.0/interfaces.defaultimplementation.deps.json
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.defaultimplementation/bin/Debug/net5.0/interfaces.defaultimplementation.runtimeconfig.json
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.defaultimplementation/bin/Debug/net5.0/interfaces.defaultimplementation.runtimeconfig.dev.json
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.defaultimplementation/bin/Debug/net5.0/interfaces.defaultimplementation.dll
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.defaultimplementation/bin/Debug/net5.0/ref/interfaces.defaultimplementation.dll
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.defaultimplementation/bin/Debug/net5.0/interfaces.defaultimplementation.pdb
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.defaultimplementation/obj/Debug/net5.0/interfaces.defaultimplementation.csproj.AssemblyReference.cache
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.defaultimplementation/obj/Debug/net5.0/interfaces.defaultimplementation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.defaultimplementation/obj/Debug/net5.0/interfaces.defaultimplementation.AssemblyInfoInputs.cache
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.defaultimplementation/obj/Debug/net5.0/interfaces.defaultimplementation.AssemblyInfo.cs
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.defaultimplementation/obj/Debug/net5.0/interfaces.defaultimplementation.csproj.CoreCompileInputs.cache
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.defaultimplementation/obj/Debug/net5.0/interfaces.defaultimplementation.dll
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.defaultimplementation/obj/Debug/net5.0/ref/interfaces.defaultimplementation.dll
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.defaultimplementation/obj/Debug/net5.0/interfaces.defaultimplementation.pdb
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.defaultimplementation/obj/Debug/net5.0/interfaces.defaultimplementation.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.intro/bin/Debug/net5.0/interfaces.intro.deps.json
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.intro/bin/Debug/net5.0/interfaces.intro.runtimeconfig.json
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.intro/bin/Debug/net5.0/interfaces.intro.runtimeconfig.dev.json
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.intro/bin/Debug/net5.0/interfaces.intro.dll
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.intro/bin/Debug/net5.0/ref/interfaces.intro.dll
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.intro/bin/Debug/net5.0/interfaces.intro.pdb
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.intro/obj/Debug/net5.0/interfaces.intro.csproj.AssemblyReference.cache
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.intro/obj/Debug/net5.0/interfaces.intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.intro/obj/Debug/net5.0/interfaces.intro.AssemblyInfoInputs.cache
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.intro/obj/Debug/net5.0/interfaces.intro.AssemblyInfo.cs
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.intro/obj/Debug/net5.0/interfaces.intro.csproj.CoreCompileInputs.cache
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.intro/obj/Debug/net5.0/interfaces.intro.dll
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.intro/obj/Debug/net5.0/ref/interfaces.intro.dll
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.intro/obj/Debug/net5.0/interfaces.intro.pdb
+/Users/chrisfarrell/CSharpProjects/skillz.demos/interfaces.intro/obj/Debug/net5.0/interfaces.intro.genruntimeconfig.cache
